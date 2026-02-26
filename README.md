@@ -9,6 +9,8 @@ Documentar a construção de uma nuvem privada utilizando K3s, GitOps e Tailscal
 O conteúdo é renderizado automaticamente em: **[https://tcc.acdgbrasil.com.br](https://tcc.acdgbrasil.com.br)**
 
 ## 📂 Estrutura
+*   `REFERENCES.md`: Lista completa de referências bibliográficas (ABNT).
+*   `references.bib`: Arquivo de fontes para processamento acadêmico.
 *   `/chapters`: Texto bruto dos capítulos em Markdown.
 *   `/assets`: Imagens, diagramas e referências.
 
